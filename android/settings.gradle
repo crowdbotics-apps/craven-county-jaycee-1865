@@ -1,0 +1,3 @@
+rootProject.name = 'craven_county_jaycee_1865'
+
+include ':app'
